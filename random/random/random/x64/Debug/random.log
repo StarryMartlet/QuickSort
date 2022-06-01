@@ -1,0 +1,4 @@
+﻿  random.cpp
+C:\Users\Karina\Documents\GitHub\QuickSort\random\random\random\random.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Karina\Documents\GitHub\QuickSort\random\random\random\random.cpp(100,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  random.vcxproj -> C:\Users\Karina\Documents\GitHub\QuickSort\random\random\x64\Debug\random.exe
